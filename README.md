@@ -1,5 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ASP.NET MVC core
+The name is Phuc
+I am a student in FPT University
+
+- 🌱 I’m currently learning ASP.NET MVC core
+
 
 
 
